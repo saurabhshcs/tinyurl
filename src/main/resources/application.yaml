@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: tinyurl
+
+  data:
+    mongodb:
+      authentication-database: tinyurl
+    username: admin
+    password: nimda
+    database: tinyurl
+    port: 27017
+    host: localhost
+
